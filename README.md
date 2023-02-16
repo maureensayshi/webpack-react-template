@@ -1,2 +1,3 @@
 # webpack-react-template
-a template using webpack to bundle React.js
+
+a template using webpack to bundle React.js with styled-components
